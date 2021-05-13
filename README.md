@@ -1,7 +1,7 @@
 # CREATE A BASIC FLASK APPLICATION
 You can follow the steps below to run your first app, but do note that the repository has been restructured to contain more code, therefore codes_in_repo != README.md
 ## Steps:
-- I created a repo at [github.com/GoodnessOlawoore/first-flask-app](https://github.com/GoodnessOlawoore/first-flask-app)
+- I created a repo at [github.com/GoodnessOlawoore/basic-flask-app](https://github.com/GoodnessOlawoore/basic-flask-app)
 - Cloned it to my local computer via the command prompt using:
 
 ```
@@ -29,7 +29,7 @@ pip install flask
 ```
 touch app.py
 ```
-- Filled it with [the code](https://github.com/GoodnessOlawoore/first-flask-app/blob/main/app.py) (yours will be different)
+- Filled it with [the code](https://github.com/GoodnessOlawoore/basic-flask-app/blob/main/app.py) (yours will be different)
 - Instatiated the app via the terminal using:
 ```
 python app.py 
