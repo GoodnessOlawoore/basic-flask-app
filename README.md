@@ -7,7 +7,7 @@ You can follow the steps below to run your first app, but do note that the repos
 ```
 git clone github.com/GoodnessOlawoore/basic-flask-app
 ```
--(use the path/link to your the new repo you created)
+-(use the path/link to the new repo you created)
 
 - Create a virtual environment using ```python -m venv env``` ,where "env" is your virtual environment
 
